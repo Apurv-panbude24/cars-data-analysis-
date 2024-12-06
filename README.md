@@ -87,9 +87,8 @@ It includes a diverse range of vehicles, allowing for meaningful analysis of var
 ---
 
 ## **Author**  
-**Name**: [Your Name]  
-**Contact**: [Your Email]  
-**LinkedIn**: [Your LinkedIn Profile]  
+**Name**: Apurv Panbude  
+**Contact**: Apurvpanbude1@gmail.com  
 
 ---
 
